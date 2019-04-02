@@ -10,7 +10,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            EX1144 ex = new EX1144();
+            EX1157 ex = new EX1157();
             ex.Calcula();
         }
     }

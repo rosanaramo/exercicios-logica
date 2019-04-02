@@ -55,12 +55,17 @@
     <Compile Include="br.com.udemy\EX1094.cs" />
     <Compile Include="br.com.udemy\EX1096.cs" />
     <Compile Include="br.com.udemy\EX1097.cs" />
+    <Compile Include="br.com.udemy\EX1099.cs" />
     <Compile Include="br.com.udemy\EX1116.cs" />
     <Compile Include="br.com.udemy\EX1132.cs" />
     <Compile Include="br.com.udemy\EX1133.cs" />
     <Compile Include="br.com.udemy\EX1142.cs" />
     <Compile Include="br.com.udemy\EX1143.cs" />
     <Compile Include="br.com.udemy\EX1144.cs" />
+    <Compile Include="br.com.udemy\EX1153.cs" />
+    <Compile Include="br.com.udemy\EX1155.cs" />
+    <Compile Include="br.com.udemy\EX1156.cs" />
+    <Compile Include="br.com.udemy\EX1157.cs" />
     <Compile Include="br.com.udemy\Tabuada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -15,10 +15,9 @@ namespace Exercicios.br.com.udemy
             N = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i<= N; i++)
             {
-
-                
+                Console.WriteLine(i + " "+ (i*i)+" "+ (i*i*i) );
+                Console.WriteLine(i + " " +((i * i)+1) + " " + (((i * i * i) +1)));
             }
-            Console.ReadLine();
         }
     }
 }

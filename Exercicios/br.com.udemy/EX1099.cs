@@ -12,7 +12,7 @@ namespace Exercicios.br.com.udemy
         
         public void Calcula()
         {
-            int N, x, y, troca;
+            int N, x, y, troca, soma =0;
             N = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 1; i<=N; i++)
@@ -26,12 +26,20 @@ namespace Exercicios.br.com.udemy
                     troca = x;
                     x = y;
                     y = troca;
-
+                      
                 }
+            
+                    for (int j = x+1; j < y; j++)
+                    {
+                        if (j %2 != 0)
+                        {
+                            soma = soma + j;  
+                        }
+                    }
 
+                    Console.WriteLine(soma);
+                soma = 0;
             }
-
-        
         }
     }
 }

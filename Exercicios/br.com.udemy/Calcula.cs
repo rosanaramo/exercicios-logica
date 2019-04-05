@@ -10,7 +10,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            ExVetores ex = new ExVetores();
+            ExNomeAlturaIdade ex = new ExNomeAlturaIdade();
             ex.Calcula();
         }
     }

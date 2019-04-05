@@ -69,6 +69,7 @@
     <Compile Include="br.com.udemy\EX1155.cs" />
     <Compile Include="br.com.udemy\EX1156.cs" />
     <Compile Include="br.com.udemy\EX1157.cs" />
+    <Compile Include="br.com.udemy\ExNomeAlturaIdade.cs" />
     <Compile Include="br.com.udemy\ExVetores.cs" />
     <Compile Include="br.com.udemy\Tabuada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

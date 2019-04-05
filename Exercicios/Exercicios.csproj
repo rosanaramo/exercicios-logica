@@ -64,10 +64,12 @@
     <Compile Include="br.com.udemy\EX1143.cs" />
     <Compile Include="br.com.udemy\EX1144.cs" />
     <Compile Include="br.com.udemy\EX1145.cs" />
+    <Compile Include="br.com.udemy\EX1149.cs" />
     <Compile Include="br.com.udemy\EX1153.cs" />
     <Compile Include="br.com.udemy\EX1155.cs" />
     <Compile Include="br.com.udemy\EX1156.cs" />
     <Compile Include="br.com.udemy\EX1157.cs" />
+    <Compile Include="br.com.udemy\ExVetores.cs" />
     <Compile Include="br.com.udemy\Tabuada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

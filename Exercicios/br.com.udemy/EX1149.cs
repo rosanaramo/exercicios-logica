@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exercicios.br.com.udemy
 {
-    class Calcula
+    class EX1149
     {
-        public static void Main(String[] args)
-        {
-            ExVetores ex = new ExVetores();
-            ex.Calcula();
-        }
+
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercicios.br.com.udemy.ExerciciosVetores;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            ExNomeAlturaIdade ex = new ExNomeAlturaIdade();
+            EX001 ex = new EX001();
             ex.Calcula();
         }
     }

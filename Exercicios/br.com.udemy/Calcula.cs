@@ -11,7 +11,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            EX001 ex = new EX001();
+            EX004 ex = new EX004();
             ex.Calcula();
         }
     }

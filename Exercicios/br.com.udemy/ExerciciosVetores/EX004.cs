@@ -8,7 +8,6 @@ namespace Exercicios.br.com.udemy.ExerciciosVetores
 {
     class EX004
     {
-
         int n;
         double total, media;
         public void Calcula()

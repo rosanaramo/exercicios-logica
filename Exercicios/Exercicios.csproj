@@ -69,6 +69,8 @@
     <Compile Include="br.com.udemy\EX1155.cs" />
     <Compile Include="br.com.udemy\EX1156.cs" />
     <Compile Include="br.com.udemy\EX1157.cs" />
+    <Compile Include="br.com.udemy\ExerciciosMatrizes\EX001_Matrizes.cs" />
+    <Compile Include="br.com.udemy\ExerciciosMatrizes\EX002_Matrizes.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX001.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX002.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX004.cs" />
@@ -79,6 +81,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="br.com.udemy\ExerciciosPDF\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

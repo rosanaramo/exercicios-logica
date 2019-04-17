@@ -1,4 +1,5 @@
-﻿using Exercicios.br.com.udemy.ExerciciosVetores;
+﻿using Exercicios.br.com.udemy.ExerciciosMatrizes;
+using Exercicios.br.com.udemy.ExerciciosVetores;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            EX004 ex = new EX004();
+            EX002_Matrizes ex = new EX002_Matrizes();
             ex.Calcula();
         }
     }

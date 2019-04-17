@@ -31,9 +31,7 @@ namespace Exercicios.br.com.udemy.ExerciciosVetores
                     Console.Write(numero+ " ");
                 }
             }
-
             Console.ReadLine();
-
         }
     }
 }

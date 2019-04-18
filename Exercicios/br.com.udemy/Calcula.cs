@@ -12,7 +12,7 @@ namespace Exercicios.br.com.udemy
     {
         public static void Main(String[] args)
         {
-            EX002_Matrizes ex = new EX002_Matrizes();
+            Ex003_Matrizes ex = new Ex003_Matrizes();
             ex.Calcula();
         }
     }

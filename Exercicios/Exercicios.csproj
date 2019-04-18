@@ -71,6 +71,7 @@
     <Compile Include="br.com.udemy\EX1157.cs" />
     <Compile Include="br.com.udemy\ExerciciosMatrizes\EX001_Matrizes.cs" />
     <Compile Include="br.com.udemy\ExerciciosMatrizes\EX002_Matrizes.cs" />
+    <Compile Include="br.com.udemy\ExerciciosMatrizes\Ex003_Matrizes.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX001.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX002.cs" />
     <Compile Include="br.com.udemy\ExerciciosVetores\EX004.cs" />
